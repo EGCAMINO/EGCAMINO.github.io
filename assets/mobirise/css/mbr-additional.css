@@ -2647,6 +2647,63 @@ body {
 .cid-rvh21RyiR7 .dropdown-item:hover {
   color: #767676 !important;
 }
+.cid-rvhF1mONug {
+  padding-top: 105px;
+  padding-bottom: 0px;
+  background-color: #393939;
+}
+.cid-rvhF1mONug .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rvhF1mONug H2 {
+  color: #ffffff;
+}
+.cid-rvhFEXFNr8 {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #393939;
+}
+.cid-rvhFEXFNr8 .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-rvhFEXFNr8 H2 {
+  color: #ffffff;
+}
+.cid-rvhFEXFNr8 .mbr-section-subtitle DIV {
+  color: #ffffff;
+}
+.cid-rvhJuRph5s {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #393939;
+}
+.cid-rvhIwTr9hW {
+  background: #393939;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: linear-gradient(0deg, #393939, #393939);
+}
+.cid-rvhIwTr9hW .image-block {
+  margin: auto;
+}
+.cid-rvhIwTr9hW figcaption {
+  position: relative;
+}
+.cid-rvhIwTr9hW figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rvhIwTr9hW .image-block {
+    width: 100% !important;
+  }
+}
+.cid-rvhJStLINP {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #393939;
+}
 .cid-rvh21RyiR7 .navbar {
   background: #232323;
   transition: none;
